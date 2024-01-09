@@ -1,6 +1,6 @@
 # Hi, I'm Elly 👋
 
-- 💞️ I’m interested in improving my skills in data analytics
+- 💞️ I’m interested in improving my skills in data science and analytics
 - 🥅 My next goal will be to learn more Python 
 - ⚡ Fun Fact: some cats are allergic to people 🐱
 
